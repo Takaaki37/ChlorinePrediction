@@ -9,7 +9,7 @@ LSTMモデルを学習するコードです。
 wtp_in：目的変数1　送水地点の残留塩素濃度
 
 wtp_out：目的変数2　受水地点の残留塩素濃度
-timestep：ブロック
+time_steps：ブロック
 
 future：予測時間
 
